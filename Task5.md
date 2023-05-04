@@ -1,5 +1,5 @@
 #### Task 5 - Create a bash script called "container-stop.sh" under "/home/bob/" which should be able to stop the "myapp" container. It should also display a message "myapp container stopped!"
-![PAM](/images/task5.png "PAM configuration")
+![PAM](/task5.png "PAM configuration")
 ---
 ##### 1. At first  switch to root user and Add a local DNS entry for the database hostname "mydb.kodekloud.com" so that it can resolve to "10.0.0.50" IP address
 `# cat /etc/hosts`
