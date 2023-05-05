@@ -1,6 +1,6 @@
 #### Task 1 - The database server called *centos-host* is running short on space! 
 #### You have been asked to add an LVM volume for the Database team using some of the existing disks on this server.
-![LVM](/task1.png "LVM Mount Volumes")
+![LVM](/images/task1.png "LVM Mount Volumes")
 ---
 ##### 1. At first  switch to root user and check any existing physical / logical volumes
 `# pvs`
