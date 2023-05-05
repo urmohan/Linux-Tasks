@@ -1,5 +1,5 @@
 #### Task 3 - Some new developers have joined our team, so we need to create some users/groups and further need to setup some permissions and access rights for them.
-![Permissions](/task3.png "Permissions")
+![Permissions](Images/task3.png "Permissions")
 ---
 ##### 1. At first  switch to root user and create group devs & admins
 `# groupadd devs`
