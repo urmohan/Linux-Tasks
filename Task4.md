@@ -1,5 +1,5 @@
 #### Task 4 - Some of our apps generate some raw data and store the same in /home/bob/preserved directory. We want to clean and manipulate some data and then want to create an archive of that data.
-![Archive ](/task4.png "Archive Data ")
+![Archive ](Images/task4.png "Archive Data ")
 ---
 ##### 1. At first  switch to root user and list the /opt folders
 `# ls -l /opt/`
